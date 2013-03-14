@@ -113,7 +113,6 @@ Testing
 HTML
 ----
 
-* Avoid blank options in dropdowns.
 * Don't use a reset button for forms.
 * Prefer cancel links to cancel buttons.
 
