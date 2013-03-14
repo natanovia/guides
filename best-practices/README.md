@@ -117,11 +117,6 @@ HTML
 * Don't use a reset button for forms.
 * Prefer cancel links to cancel buttons.
 
-CSS
----
-
-* Avoid absolute positioning.
-
 Browsers
 --------
 
