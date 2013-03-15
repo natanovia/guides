@@ -56,6 +56,7 @@ Rails
   change can be solved with another migration.
 * Validate the associated `belongs_to` object (`user`), not the database
   column (`user_id`).
+* Don't name methods after database columns in the same class.
 
 Bundler
 -------
